@@ -18,8 +18,3 @@ Final Project for Statistical Natural Language Processing Course
    - [ ] Split the top 50 documents into sentences (sent_tokenize)
    - [ ] Treat the sentences likedocuments to rank them and return the top 50 sentences (same approach as above)
    - [ ] Evaluate performance using Mean Reciprocal Rank
-### Grading
-  - [ ] 25 points - Baseline Document Retrieval Model
-  - [ ] 25 points - Advanced Document Retrieval Model
-  - [ ] 25 points - Sentence Ranker
-  - [ ] 25 points - Report is well-written, presents meaningful analysis with evaluation of differentmodels, and contains all required information
